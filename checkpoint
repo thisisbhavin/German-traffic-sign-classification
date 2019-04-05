@@ -1,0 +1,2 @@
+model_checkpoint_path: "lenet_drop_0.5_3"
+all_model_checkpoint_paths: "lenet_drop_0.5_3"
